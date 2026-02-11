@@ -1,4 +1,6 @@
-# calorie-tracker
-## simple calorie tracker 
-**all foods eaten**
-**total calories consumed**
+# modular FastAPI web application for tracking daily food intake and monitoring calories and macronutrients
+
+## Tech Stack
+- FastAPI
+- SQLAlchemy
+- 
