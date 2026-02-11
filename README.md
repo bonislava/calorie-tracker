@@ -1,6 +1,6 @@
-# modular FastAPI web application for tracking daily food intake and monitoring calories and macronutrients
+## modular FastAPI web application for tracking daily food intake and monitoring calories and macronutrients
 
-## Tech Stack
+### Tech Stack
 - FastAPI
 - SQLAlchemy
 - 
